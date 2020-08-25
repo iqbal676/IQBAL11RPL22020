@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "IQBAL11RPL22020"
